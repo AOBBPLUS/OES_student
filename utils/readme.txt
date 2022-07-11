@@ -1,0 +1,5 @@
+该文件是
+
+axios包,将js分装并发送ajax请求
+http request拦截器，判断cookie中是否有token字符串，如果有，则将token存入请求头中
+http response拦截器,仿照admin框架的request.js

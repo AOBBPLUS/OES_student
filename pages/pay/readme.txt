@@ -1,0 +1,3 @@
+pay目录下包含了_pid.vue是和支付相关的页面，主要有支付所需要的二维码，使用了api/order.js
+
+_pid.vue中的_pid将会与请求的订单id进行匹配生成vue页面
